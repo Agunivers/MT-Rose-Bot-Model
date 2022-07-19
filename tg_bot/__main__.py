@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-*vankamda mapula{}, enparu {Spoidermon}!Tirupura irunthu 😎* 
+*vankamda mapula{}, enperu {Spoidermon}!Tirupurla irunthu 😎* 
 *Apurom thirimbi entha pagam varakudathu 😡 *
 * Vera doubt na go to @Spoidermon12 *
 * [he](tg://user?id={}) *is a cool admin bot run by Aadhithya.* 
